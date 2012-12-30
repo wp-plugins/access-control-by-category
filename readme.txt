@@ -14,7 +14,7 @@ Control access to registered users only of certain posts by assigning the "Subsc
 
 Normally, visitors of a wordpress blog can view all published posts, whether or not they are being logged on. You can use this plugin to implement an access control whereby assigning the "Subscribed" category to any posts you want to control access The plugin will automatically hides the content of those posts to the non-logged-on users. This can be use as a simple membership system. For more information, visit <a href="http://dekisugi.net/wpplugins/access-control-by-category">Support</a> page.
 
-** this plugin is not compatible with Jetpack plugin (by wordpress.com), do not enable the email subscription feature of this plugin because it can bypass the plugin to get the content of all posts and send them to any subscribers. **
+** if your wordpress blog have the Jetpack plugin installed, do not enable the email subscription feature. Jetpack bypasses the system and get the contents of all posts and send them to any subscribers regardless of any control access. **
 
 
 == Installation ==
