@@ -4,6 +4,7 @@ Plugin Name: Access Control by Category
 Plugin URI: http://dekisugi.net/wpplugins/access-control-by-category
 Description:  Visitors must logged on to see the content of any posts under "Subscribed" category. This can be used as a simple membership system. Please<a href="http://wordpress.org/extend/plugins/access-control-by-category"> [rate] </a> this plugin.
 Author: Narin Olankijanan
+Version: 1.1
 Author URI: http://dekisugi.net/wpplugins
 License: GPLv2
 */
