@@ -12,6 +12,8 @@ Control access to registered users only of certain posts by assigning the "Subsc
 
 In additions, any texts within [subscribed] shortcode either in posts or pages will also be seen only by registered users.
 
+For full version, please visit <a href="http://coziplace.com/dev">Support</a> page.
+
 == Description ==
 
 Normally, visitors of a wordpress blog can view all published posts, whether or not they are being logged on. You can use this plugin to implement an access control whereby assigning the "Subscribed" category to any posts you want to control access The plugin will automatically hides the content of those posts to the non-logged-on users. This can be use as a simple membership system. For more information, visit <a href="http://dekisugi.net/wpplugins/access-control-by-category">official</a> page.
