@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Access Control by Category
-Plugin URI: http://coziplace.com/dev
-Description:  Visitors must logged on to see the content of any posts under "Subscribed" category. Any texts within [subscribed] shortcode will also be restricted to logged-in users. This can be used as a simple membership system. Please<a href="http://wordpress.org/extend/plugins/access-control-by-category"> [rate] </a> this plugin.
+Plugin URI: http://dev.coziplace.com
+Description:  Visitors must logged on to see the content of any posts under "Subscribed" category. Any texts within [subscribed] shortcode will also be restricted to logged-in users. This can be used as a simple membership system. Need full version of this plugin, please visit <a href="http://dev.coziplace.com"> Official Page </a> of this plugin.
 Author: Narin Olankijanan
 Version: 1.2
-Author URI: http://coziplace.com/dev
+Author URI: http://dev.coziplace.com
 License: GPLv2
 */
 
