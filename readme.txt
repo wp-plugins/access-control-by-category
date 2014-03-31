@@ -12,7 +12,7 @@ Control access to registered users only of certain posts by assigning the "Subsc
 
 In additions, any texts within [subscribed] shortcode either in posts or pages will also be seen only by registered users.
 
-For full version, please visit <a href="http://coziplace.com/dev">Support</a> page.
+For full version, please visit <a href="http://dev.coziplace.com/premium-wordpress-plugins/access-control-plus">Support</a> page.
 
 == Description ==
 
