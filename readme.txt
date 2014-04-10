@@ -16,7 +16,7 @@ For enhanced version, please visit <a href=http://dev.coziplace.com/premium-word
 
 == Description ==
 
-Normally, visitors of a wordpress blog can view all published posts, whether or not they are being logged on. You can use this plugin to implement an access control whereby assigning the "Subscribed" category to any posts you want to control access The plugin will automatically hides the content of those posts to the non-logged-on users. This can be use as a simple membership system. For more information, visit <a href=http://dev.coziplace.com/premium-wordpress-plugins/access-control-by-category>official</a> page.
+Normally, visitors of a wordpress blog can view all published posts, whether or not they are being logged on. You can use this plugin to implement an access control whereby assigning the "Subscribed" category to any posts you want to control access The plugin will automatically hides the content of those posts to the non-logged-on users. This can be use as a simple membership system. For enhanced version of this plugin, visit <a href=http://dev.coziplace.com/premium-wordpress-plugins/access-control-by-category>official</a> page.
 
 ** if your wordpress blog have the Jetpack plugin installed, do not enable the email subscription feature. Jetpack bypasses the system and get the contents of all posts and send them to any subscribers regardless of any control access. **
 
