@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Access Control by Category
-Plugin URI: http://dev.coziplace.com/free-wordpress-plugins/access-control-by-category
+Plugin URI: http://dev.coziplace.com/premium-wordpress-plugins/access-control-plus
 Description:  Visitors must logged on to see the content of any posts under "Subscribed" category. Any texts within [subscribed] shortcode will also be restricted to logged-in users. This can be used as a simple membership system. For enhanced version of this plugin, please visit <a href="http://dev.coziplace.com/premium-wordpress-plugins/access-control-plus”> Official Page </a>.
 Author: Narin Olankijanan
-Version: 1.2
+Version: 1.2.1
 Author URI: http://dev.coziplace.com
 License: GPLv2
 */
@@ -40,7 +40,7 @@ function dk_res_post($content){
 	
 	foreach($post_categories as $c){
 		$cat = get_category( $c );
-     	        if ($cat->name == "Subscribed") {
+     	        if (strtolower($cat->name) == "Subscribed") {
                   $is_restricted = true;
                   break;
                 }		
